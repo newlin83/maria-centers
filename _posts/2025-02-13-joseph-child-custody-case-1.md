@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joseph (child custody case #1)'
-date: 2025-02-13 23:04 -0800
+date: 2001-01-01 23:04 -0800
 ---
 She got pregnant at age 17 while in high school.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thomas (2006 to 2008) (child custody case #2)'
-date: 2025-02-13 23:06 -0800
+date: 2007-01-01 23:06 -0800
 ---
 While in rehab Maria got pregnant, for the umpteenth time. For whatever reason, instead of having yet another abortion, decided to keep him. Who knows why.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maria Lynne Centers, An Overview
-date: 2025-02-13 22:47 -0800
+date: 2025-02-14 09:30 +0000
 ---
 This is what I know about Maria Lynne Centers and the Centers family from my time around them from 2019 to 2023. I assume there's far more about her that would be damning, but I just don't know it. Especially those years of 2001 to 2011.
 

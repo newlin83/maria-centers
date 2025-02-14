@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maria's Bizarre Mother, Marilyn Centers
-date: 2025-02-13 23:03 -0800
+date: 2025-02-13 23:03 +0000
 ---
 Maria was born 9/14/1983 in Shonto, Arizona. This was on the Navajo reservation. She was born to the most Bizarre and antisocial mother and person could have.
 
