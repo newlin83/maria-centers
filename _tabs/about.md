@@ -1,16 +1,18 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-tags: [Francis Schuckardt, Kayla Ellis, CMRI, Tridentine, Tridentines]
+tags: [Maria Centers, Francis Schuckardt, Kayla Ellis, CMRI, Tridentine, Tridentines]
 order: 4
 ---
 
 > My name is James Newlin, and I created this site.
 {: .prompt-tip }
 
-This website is a platform for me to share my personal experiences with the family court system in Kootenai County Idaho. It reflects my opinions and perspective on the harm I believe they caused me and my child. My goal is to raise awareness and seek accountability, not to defame or harm anyone.
+This website is a platform for me to share my knowledge of Maria Lynne Centers. She was born 9/14/1983 in Shonto, Arizona, lived around Tucson and San Francisco, and currently lives in Hayden, Idaho.
 
-These are the other related sites I've created:
+These are the other related sites I've created about the insanity of the people of North Idaho:
+
+[Kootenai County Family Law](https://www.kootenaicourts.com/). This website is a platform for me to share my personal experiences with the family court system in Kootenai County Idaho. It reflects my opinions and perspective on the harm I believe they caused me and my child. My goal is to raise awareness and seek accountability, not to defame or harm anyone.
 
 [CMRI & Tridentine Latin Rite Church](https://www.tridentines.com/). This is a cult that was setup in Coeur d'Alene in the 1960s. The leader of the group, Francis Schuckardt, would travel the country and convince women to leave their husbands, and abscond with their children and bring them to Kootenai County. The cult would shield these children from their fathers. The courts in Kootenai County defended the cult.
 
