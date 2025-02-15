@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boston Move Fraud
+title: Boston Move Fraud, March 2023
 date: 2023-03-20 00:00 +0000
 ---
 In late 2022 and early 2023, Maria deceptively proposed a family move to Boston. Her plan was for me to relocate first, with her and our daughter following within weeks. She even insisted I rent a moving truck and depart on 3/20/2023. Neither of us had any prior connection to Boston. It later became clear that she chose Boston to maximize my distance from our daughter and because she knew, from conversations we'd had, that my industry offered good job opportunities there.
@@ -26,7 +26,7 @@ On 3/6/2023, just two weeks before my scheduled departure for Boston, Maria abru
 
 A hearing was set for 3/16/2023, only four (4) days before my planned move. During this period, I was forced out of my home and into a hotel and an Airbnb, with limited access to see our daughter Maria's actions created a crisis situation: I was locked out of my home, facing a rapidly approaching move-out date, and dealing with a legal battle.
 
-Seeking legal assistance to lift the protective order, I discovered that Maria had already consulted with numerous prominent divorce attorneys in the area, effectively preventing them from representing me. Conflicting out attorneys is a common tactic with narcissists in divorce. These attorneys included (this is non-inclusive): Amendola Doty & Brumley, PLLC, Palmer | George PLLC, and Bolton Law, PLLC. This revelation further confirmed her deceitful intentions. While ostensibly planning a move to Boston with me, she was simultaneously laying the groundwork for a divorce and custody battle in Idaho. Someone genuinely intending to relocate wouldn't be engaging in such local legal strategizing.
+Seeking legal assistance to lift the protective order, I discovered that Maria had already consulted with numerous prominent divorce attorneys in the area, effectively preventing them from representing me. Conflicting out attorneys is a common tactic with narcissists in divorce. These attorneys included (this is non-inclusive): Amendola Doty & Brumley, PLLC, Palmer George PLLC, and Bolton Law, PLLC. This revelation further confirmed her deceitful intentions. While ostensibly planning a move to Boston with me, she was simultaneously laying the groundwork for a divorce and custody battle in Idaho. Someone genuinely intending to relocate wouldn't be engaging in such local legal strategizing.
 
 At the 3/16/2023 hearing, Maria agreed to drop the protective order only if I proceeded with the move to Boston. This conditional offer exposed her manipulative tactics. If she truly felt threatened, she wouldn't have used the protective order as a bargaining chip. There was no history of domestic violence or police involvement; the protective order was simply a tool to pressure and control me. The timing of the hearing, coinciding with my moving date, further suggests that this was a premeditated strategy to force my departure.
 

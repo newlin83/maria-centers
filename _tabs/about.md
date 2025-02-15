@@ -8,9 +8,9 @@ order: 4
 > My name is James Newlin, and I created this site.
 {: .prompt-tip }
 
-This website is a platform for me to share my knowledge of Maria Lynne Centers. She was born 9/14/1983 in Shonto, Arizona, lived around Tucson and San Francisco, and currently lives in Hayden, Idaho.
+This website is a platform for me to share my insights and perspectives on Maria Lynne Centers, born on September 14, 1983, and currently residing in North Idaho. Over the years, her actions have caused significant harm to those closest to her, particularly her family, her children, and the fathers of her three children. This site aims to serve as a cautionary resource for anyone who may consider forming a relationship with Maria, as well as a space for me to express my thoughts and experiences.
 
-These are the other related sites I've created about the insanity of the people of North Idaho:
+These are the other related sites I've created about the people of North Idaho:
 
 [Kootenai County Family Law](https://www.kootenaicourts.com/). This website is a platform for me to share my personal experiences with the family court system in Kootenai County Idaho. It reflects my opinions and perspective on the harm I believe they caused me and my child. My goal is to raise awareness and seek accountability, not to defame or harm anyone.
 

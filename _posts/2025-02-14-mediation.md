@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mediation
+title: Mediation Fraud, September 2023
 date: 2023-09-11 00:00 +0000
 ---
 On 9/11/2023, while I was traveling cross-country from Boston, Massachusetts, to Coeur d'Alene, Idaho, a mediation session was conducted in relation to the pending divorce proceedings. This mediation occurred prior to a scheduled temporary orders hearing set for 10/16/2023. Maria had unilaterally scheduled both the mediation and the temporary orders hearing.
